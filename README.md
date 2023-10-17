@@ -10,5 +10,5 @@ My future plans are:
 - UI upgrade;
 - further developing!
 
-_-- Ekaterina Kalina, October 2023_
+_-- Ekaterina Kalina, October 2023 (last update)_
 
